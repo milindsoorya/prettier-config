@@ -1,0 +1,16 @@
+{
+  "name": "@milindsoorya/prettier-config",
+  "version": "1.0.1",
+  "description": "Prettier Config",
+  "main": "index.json",
+  "license": "MIT",
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/milindsoorya/prettier-config"
+  },
+  "homepage": "https://github.com/milindsoorya/prettier-config"
+}
