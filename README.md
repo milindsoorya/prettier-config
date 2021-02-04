@@ -20,9 +20,8 @@ npm i @milindsoorya/prettier-config --save-dev
 ```
 ## use it in the project 
 ```
-{
-  "name": "projectname",
-  "version": "0.1.0",
-  "prettier": "@milindsoorya/prettier-config",
-}
+"devDependencies": {
+    "@milindsoorya/prettier-config": "^1.0.1",
+    "prettier": "@milindsoorya/prettier-config",
+  }
 ```
